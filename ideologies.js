@@ -8,6 +8,24 @@ ideologies = [
             "scty": 90
         }
     },
+        {
+        "name": "Anarcho-Posadism",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 100
+        }
+    },
+        {
+        "name": "Accelerationism",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 100
+        }
+    },
     {
         "name": "Libertarian Communism",
         "stats": {
@@ -33,6 +51,15 @@ ideologies = [
             "dipl": 70,
             "govt": 40,
             "scty": 80
+        }
+    },
+     {
+        "name": "Eco-Socialism",
+        "stats": {
+            "econ": 70,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 60
         }
     },
     {
@@ -345,9 +372,18 @@ ideologies = [
         "name": "Nazism",
         "stats": {
             "econ": 40,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 5
+        }
+    },
+        {
+        "name": "Racial Posadism",
+        "stats": {
+            "econ": 40,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
@@ -366,6 +402,15 @@ ideologies = [
             "dipl": 20,
             "govt": 20,
             "scty": 20
+        }
+    },
+        {
+        "name": "Homofascism",
+        "stats": {
+            "econ": 40,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 50
         }
     },
     {
